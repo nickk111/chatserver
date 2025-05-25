@@ -7,4 +7,4 @@ rm -rf *
 cmake ..
 make
 
-需要nginx的
+需要nginx的负载均衡，启动redis服务，启动mysql服务
